@@ -529,7 +529,7 @@
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.State = MetroSuite.MetroForm.FormState.Normal;
             this.Style = MetroSuite.Design.Style.Dark;
-            this.Text = "Extreme AI Photo Editor | Made by https://github.com/GabryB03/";
+            this.Text = "Extreme AI Photo Editor | Made by https://github.com/ZygoteCode/";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
